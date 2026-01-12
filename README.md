@@ -140,4 +140,10 @@ Coming soon!:
 ## 📫 Connect With Me
 - **LinkedIn:** https://linkedin.com/in/ricardo-saumeth-0baba982  
 - **GitHub:** https://github.com/ricardosaumeth  
-- **Udemy:** https://www.udemy.com/course/build-a-real-time-crypto-app-with-react-19-typescript/  
+- **Udemy:** https://www.udemy.com/course/build-a-real-time-crypto-app-with-react-19-typescript/
+- 
+## 📘 Case Study: Building a Real-Time Trading Dashboard
+A deep dive into the architecture, performance patterns, and engineering challenges behind my real-time CryptoApp.
+
+👉 Read the full case study  
+https://github.com/ricardosaumeth/real-time-ui-case-study.md
