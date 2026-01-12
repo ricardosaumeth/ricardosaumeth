@@ -146,4 +146,4 @@ Coming soon!:
 A deep dive into the architecture, performance patterns, and engineering challenges behind my real-time CryptoApp.
 
 👉 Read the full case study  
-https://github.com/ricardosaumeth/real-time-architecture-case-study.md
+[https://github.com/ricardosaumeth/real-time-architecture-case-study.md](https://github.com/ricardosaumeth/ricardosaumeth/blob/main/real-time-architecture-case-study.md)
