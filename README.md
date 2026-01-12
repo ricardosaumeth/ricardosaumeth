@@ -1,3 +1,5 @@
+Senior Front-End Engineer | React 19 | TypeScript | Real-Time UI | Fintech | High-Performance Web Applications
+
 # Ricardo Saumeth
 
 ### Senior Front-End Engineer • Real-Time Trading UI Specialist • React & TypeScript Expert  
